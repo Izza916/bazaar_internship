@@ -1,0 +1,21 @@
+1. Ideas to increase first-order conversion:
+
+Implement targeted onboarding journeys for users from low-converting platforms (e.g., send special discount codes or tutorials).
+
+A/B test signup incentives to improve conversion from paid channels, as they may be underperforming.
+
+2. Idea to improve repeat orders:
+
+Introduce a loyalty program that gives rewards or free delivery on second and third orders within 30 days of signup.
+
+
+
+
+
+
+Orders & Revenue Section Cannot Be Done
+don’t have order-level data (no columns like order_value, order_status, item_name, channel, etc.), so just writing a note.
+
+Note: This section was omitted due to absence of order-level data in the provided dataset.
+
+
